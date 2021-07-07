@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Abinash Rai\OneDrive\Desktop\ecommerce-django\venv"
+VIRTUAL_ENV="C:\Users\coral\PycharmProjects\ecomm5pm\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

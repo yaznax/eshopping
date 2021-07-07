@@ -1,4 +1,4 @@
-#!c:\users\abinash rai\onedrive\desktop\ecommerce-django\venv\scripts\python.exe
+#!c:\users\coral\pycharmprojects\ecomm5pm\venv\scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
