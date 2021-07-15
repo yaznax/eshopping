@@ -12,7 +12,7 @@ urlpatterns = [
     path('signup', signup, name='signup'),
     path('cart/<slug>', cart, name='cart'),
     path('mycart', CartView.as_view(), name='mycart'),
-    
-
+    path('deletecart/<slug>', deletecart, name='deletecart'),
+    path('removecart/<slug>', removecart, name='removecart'),
 ]
 
